@@ -13,9 +13,11 @@ console.log (number);
 // const answer = prompt("Вам есть 18?", "");
 // console.log(answer);
 
-const answer = [];
-answer[0] = prompt ("как ваше ничего?","");
-answer[1] = prompt ("что хотите?","");
-answer[2] = prompt ("что дадите?","");
+// const answer = [];
+// answer[0] = prompt ("как ваше ничего?","");
+// answer[1] = prompt ("что хотите?","");
+// answer[2] = prompt ("что дадите?","");
 
-document.write(answer);
+// document.write(answer);
+
+
